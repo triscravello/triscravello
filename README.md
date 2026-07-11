@@ -53,7 +53,7 @@ A personal portfolio showcasing my projects, technical skills, and transition fr
 ## Tech Stack
 
 **Languages**<br>
-JavaScript · TypeScript · SQL
+JavaScript · TypeScript · SQL · Python
 
 **Frontend**<br>
 React · Next.js · Tailwind CSS · HTML · CSS
