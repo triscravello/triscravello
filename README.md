@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tristan Louis Cravello
+# Hi 👋, I'm Tristan Cravello
 
 ### Full-Stack Software Engineer • Cloud • DevOps • AI
 
