@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://triscravello.github.io/tristan-portfolio-site/](https://triscravello.github.io/tristan-portfolio-site/)**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/15aOjWw9eTFGCkxYNHJAwn_Dodyq8xbsh/edit?usp=sharing&ouid=110784999317011605764&rtpof=true&sd=true](https://docs.google.com/document/d/15aOjWw9eTFGCkxYNHJAwn_Dodyq8xbsh/edit?usp=sharing&ouid=110784999317011605764&rtpof=true&sd=true)**
+- 📄 Know about my experiences **[[https://docs.google.com/document/d/15aOjWw9eTFGCkxYNHJAwn_Dodyq8xbsh/edit?usp=sharing&ouid=110784999317011605764&rtpof=true&sd=true](https://docs.google.com/document/d/15aOjWw9eTFGCkxYNHJAwn_Dodyq8xbsh/edit?usp=sharing&ouid=110784999317011605764&rtpof=true&sd=true)]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
