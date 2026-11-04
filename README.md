@@ -1,46 +1,125 @@
-# Hi 👋, I'm Tristan Cravello
 
-### Full-Stack Software Engineer • Cloud • DevOps • AI
+# Hi, I'm Tristan Cravello 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=triscravello&label=Profile views&color=0e75b6&style=flat" alt="triscravello" /> </p>
+### Software Engineer | Backend & Full-Stack Development | Distributed Systems | AI & Machine Learning
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=triscravello" alt="triscravello" /></a> </p>
+I'm an educator-turned-software engineer focused on building reliable, user-centered applications and backend systems.
 
-- 🔭 I'm currently working on **Production-ready cloud and backend engineering projects with AWS, Docker, Kubernetes, Terraform, CI/CD, Spring Boot, FastAPI, and Next.js. I'm building RunLayer, a running recommendation platform.**
+My projects explore distributed coordination, transactional consistency, cloud infrastructure, API design, and AI-assisted engineering. I enjoy working through challenging technical problems, reproducing failures, and validating solutions through automated testing.
 
-- 🌱 I'm currently learning **Advanced AWS architecture, Kubernetes, Terraform, system design, Java Spring Boot microservices, distributed systems, and production DevOps practices.**
+🔭 **Current focus:** Backend engineering, full-stack applications, distributed systems, and applied AI/ML.
 
-- 👯 I'm looking to collaborate on **Open-source cloud infrastructure, backend APIs, AI applications, developer tools, and full-stack products that solve real-world problems.**
+🤝 **Open to:** Early-career software engineering opportunities, technical collaboration, and open-source contributions.
 
-- 🤝 I'm looking for help with **Large-scale distributed systems, platform engineering, cloud security, and building highly available production systems.**
+🌐 **[Portfolio](https://triscravello.github.io/tristan-portfolio-site/)** · 💼 **[LinkedIn](https://www.linkedin.com/in/tristan-cravello-3b6500146/)** · 📄 **[Résumé](https://triscravello.github.io/tristan-portfolio-site/images/TristanCravello-SoftwareEngineerResume.docx.pdf)**
 
-- 💬 Ask me about **AWS, Docker, Kubernetes, CI/CD, Terraform, Next.js, React, Spring Boot, FastAPI, backend APIs, AI applications, and distance running.**
+---
 
-- 📫 How to reach me **tlcravello@gmail.com**
+## 🛠️ Technical Skills
 
-- ⚡ Fun fact **I've run everything from a sub-17 minute 5K to a Boston Marathon qualifying marathon—and I approach software engineering with the same mindset of continuous improvement.**
+**Languages:** Java, Python, TypeScript, JavaScript, SQL
 
-- 👨‍💻 All of my projects are available at **[https://triscravello.github.io/tristan-portfolio-site/](https://triscravello.github.io/tristan-portfolio-site/)**
+**Frontend:** React, Next.js, Tailwind CSS
 
-- 📄 Know about my experiences **[[https://docs.google.com/document/d/15aOjWw9eTFGCkxYNHJAwn_Dodyq8xbsh/edit?usp=sharing&ouid=110784999317011605764&rtpof=true&sd=true](https://docs.google.com/document/d/15aOjWw9eTFGCkxYNHJAwn_Dodyq8xbsh/edit?usp=sharing&ouid=110784999317011605764&rtpof=true&sd=true)]**
+**Backend:** Spring Boot, FastAPI, Node.js, Express, REST APIs
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/triscravello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="triscravello" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tristan-cravello-3b6500146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tristan-cravello-3b6500146" height="30" width="40" /></a>
-<a href="https://instagram.com/triscravello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="triscravello" height="30" width="40" /></a>
-<a href="https://leetcode.com/triscravello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="triscravello" height="30" width="40" /></a>
-</p>
+**Databases & Messaging:** PostgreSQL, Redis, MongoDB, Kafka, Elasticsearch
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/babel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=babel" alt="babel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mocha" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+**Cloud & Infrastructure:** AWS, Docker, Kubernetes, Terraform, GitHub Actions
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=triscravello&show_icons=true&locale=en&layout=compact" alt="triscravello" /></p>
+**AI & Machine Learning:** PyTorch, scikit-learn, AI-assisted development, model evaluation
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=triscravello&show_icons=true&locale=en" alt="triscravello" /></p>
+**Testing:** JUnit, Pytest, Vitest, Testcontainers, k6
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=triscravello&" alt="triscravello" /></p>
+---
 
+## 🚀 Featured Engineering Projects
 
-- **Email:** [tlcravello@gmail.com](mailto:tlcravello@gmail.com)
-- **Instagram:** [@triscravello](https://instagram.com/triscravello)
+### 🎟️ Distributed Ticket Reservation API
+
+**Java · Spring Boot · PostgreSQL · Redis · Lua · Docker**
+
+A distributed reservation backend designed to coordinate concurrent booking requests across two Spring Boot instances.
+
+- Enforced seat reservation correctness using PostgreSQL transactions, row locking, and uniqueness constraints.
+- Implemented idempotency keys to protect against duplicate requests.
+- Developed atomic Redis Lua admission leases.
+- Tested concurrency, Redis outages, and system behavior under load.
+
+**[View Repository](https://github.com/triscravello/ticket-reservation-api)**
+
+### 🧠 Running Readiness ML
+
+**Python · scikit-learn · PyTorch · FastAPI · Docker**
+
+An end-to-end machine learning system for predicting next-day running recovery needs.
+
+- Built group-safe data pipelines and leakage-resistant feature processing.
+- Evaluated classification models using controlled experimental procedures.
+- Explored neural network pretraining, transfer learning, and fine-tuning.
+- Implemented FastAPI inference with strict input validation.
+- Verified model artifacts using SHA-256 integrity checks and containerized deployment.
+
+**[View Repository](https://github.com/triscravello/running-readiness-ml)**
+
+### ☁️ Threat Event Platform
+
+**Java · Spring Boot · Kafka · Elasticsearch · AWS ECS Fargate**
+
+A cloud-native event processing platform for ingesting, indexing, and investigating security events.
+
+- Built REST APIs and event processing pipelines.
+- Integrated Kafka, Elasticsearch, and Kibana.
+- Deployed containerized services to AWS ECS Fargate.
+- Implemented GitHub Actions deployment workflows with AWS OIDC authentication.
+
+**[View Repository](https://github.com/triscravello/threat-ingest)**
+
+### 🤖 Policy-Aware AI Repair Controller
+
+**Python · Claude Code · Pytest**
+
+An AI-assisted engineering workflow that separates generated repair proposals from deterministic authorization and validation.
+
+- Diagnosed failures and proposed bounded code changes.
+- Enforced policy restrictions independently of AI-generated decisions.
+- Used automated tests to verify repairs.
+
+**[Explore My Projects](https://triscravello.github.io/tristan-portfolio-site/projects)**
+
+---
+
+## 👨‍🏫 Technical Leadership & Community
+
+### NextWork Build Master | July 2026–Present
+
+I help developers build practical software engineering and AI projects through NextWork's Build & Brew community.
+
+- Co-host weekly hands-on technical workshops.
+- Guide participants through applied AI engineering, debugging, and software development.
+- Encourage reproducible experimentation, testing, and portfolio-ready documentation.
+
+My background as a middle school social studies teacher shaped my approach to explaining technical concepts, mentoring others, and collaborating across different experience levels.
+
+---
+
+## 🏃 Beyond Engineering
+
+I'm also a competitive distance runner.
+
+I've run a sub-17-minute 5K and qualified for the Boston Marathon.
+
+Running has reinforced my approach to engineering: consistent practice, measurable improvement, resilience, and long-term thinking.
+
+---
+
+## 📬 Connect With Me
+
+I'm interested in backend development, full-stack engineering, cloud infrastructure, distributed systems, and AI/ML applications.
+
+- 🌐 [Software Engineering Portfolio](https://triscravello.github.io/tristan-portfolio-site/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tristan-cravello-3b6500146/)
+- 💻 [GitHub](https://github.com/triscravello)
+- 📧 [Email](mailto:tlcravello@gmail.com)
+
+Thanks for visiting!
